@@ -4,7 +4,7 @@ Untitled
 GitHub에 문서 호스팅하는 예시 페이지입니다.
 -------------------------------------------
 
-[링크]()를 클릭해서 내용을 확인해보세요.
+[링크](https://mrchypark.github.io/post/r%EB%A1%9C%EB%82%98%EB%A7%8C%EC%9D%98-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-github-pages/)를 클릭해서 내용을 확인해보세요.
 
 This is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
 
